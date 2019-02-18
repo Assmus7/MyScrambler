@@ -16,5 +16,26 @@ namespace MyScrambler
         {
             InitializeComponent();
         }
+
+         
+
+
+
+        public void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            string str = textBox1.Text;
+
+        }
+    }
+
+    public class Scrambler
+    {
+        List<string> symbols = new List<string>();
+
+
+        //    //List<string> symbol = new List<string>
+        //    //{
+        //    //    symbol.Add(str);
+        //    //}
     }
 }
