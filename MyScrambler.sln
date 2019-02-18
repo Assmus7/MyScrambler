@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyScrambler", "MyScrambler\MyScrambler.csproj", "{347A362C-B890-4562-8CDE-9A8A5890FE8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{347A362C-B890-4562-8CDE-9A8A5890FE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347A362C-B890-4562-8CDE-9A8A5890FE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347A362C-B890-4562-8CDE-9A8A5890FE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347A362C-B890-4562-8CDE-9A8A5890FE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABAFDDF-41D2-422B-BA86-F3AE9DEFFD1C}
+	EndGlobalSection
+EndGlobal
